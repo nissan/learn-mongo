@@ -1,0 +1,12 @@
+{
+  "name": "learn-mongo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/nissan/learn-mongo",
+  "author": "Nissan Dookeran <nissan.dookeran@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "^5.9.20",
+    "validator": "^13.1.1"
+  }
+}
