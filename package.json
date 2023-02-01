@@ -6,7 +6,7 @@
   "author": "Nissan Dookeran <nissan.dookeran@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "mongoose": "^5.9.20",
+    "mongoose": "^5.13.15",
     "validator": "^13.1.1"
   }
 }
